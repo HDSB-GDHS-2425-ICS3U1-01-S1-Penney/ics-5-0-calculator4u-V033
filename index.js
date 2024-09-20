@@ -5,7 +5,7 @@ console.log("Hello! Welcome to The Simple Calculator :D");
 
 console.log("With this calculator you'll be able to add, subtract, multiply, and divide!");
 
-console.log("The following opperations are represented by the following symbols: Add = +, subtract = -, multiply= *, divide = /");
+console.log("The opperations are represented by the following symbols: Add = +, subtract = -, multiply= *, divide = /");
 
 //This should (hopefully) get the users numbers
 
